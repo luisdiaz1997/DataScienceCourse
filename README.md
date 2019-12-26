@@ -5,7 +5,7 @@ Packages used:\
   Pandas\
   Matplotlib\
   Tensorflow\
-  Keras\\
+  Keras\
 Week 1:\
   Introduction to dataframes\
 Week 2:\
