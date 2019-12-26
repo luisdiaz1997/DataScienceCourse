@@ -5,12 +5,11 @@ Packages used:\
   Pandas\
   Matplotlib\
   Tensorflow\
-  Keras\
- 
+  Keras\\
 Week 1:\
-    Introduction to dataframes\
+  Introduction to dataframes\
 Week 2:\
-    Introduction to plotting\
+  Introduction to plotting\
 Week 3:\
   Python Crash Course\
 Week 4:\
