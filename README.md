@@ -1,11 +1,11 @@
 # Data Science Course
-Data Science Course taught at San Francisco State University\n
-Packages used:\n
-  Numpy
-  Pandas
-  Matplotlib
-  Tensorflow
-  Keras
+Data Science Course taught at San Francisco State University\
+Packages used:\
+  Numpy\
+  Pandas\
+  Matplotlib\
+  Tensorflow\
+  Keras\
  
 Week 1:
   Introduction to dataframes
