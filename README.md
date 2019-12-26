@@ -29,5 +29,5 @@ Week 9:\
 Week 10:\
   Recurrent Neural Networks\
 Week 11:\
-  Unsupervised Learning\
+  Unsupervised Learning
   
