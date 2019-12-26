@@ -1,6 +1,6 @@
 # Data Science Course
-Data Science Course taught at San Francisco State University
-Packages used:
+Data Science Course taught at San Francisco State University\n
+Packages used:\n
   Numpy
   Pandas
   Matplotlib
