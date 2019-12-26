@@ -6,6 +6,8 @@ Packages used:\
   Matplotlib\
   Tensorflow\
   Keras\
+  
+  
 Week 1:\
   Introduction to dataframes\
 Week 2:\
