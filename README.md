@@ -1,4 +1,4 @@
-# DataScienceCourse
+# Data Science Course
 Data Science Course taught at San Francisco State University
 Packages used:
   Numpy
