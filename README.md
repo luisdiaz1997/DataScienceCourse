@@ -1,5 +1,6 @@
 # Data Science Course
 Data Science Course taught at San Francisco State University\
+Instructors: Luis Chumpitaz and Emily Samperio\
 Packages used:\
   Numpy\
   Pandas\
