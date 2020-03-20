@@ -6,29 +6,30 @@ Packages used:\
   Pandas\
   Matplotlib\
   Tensorflow\
-  Keras
+  Keras\
+  Pytorch
   
   
-Week 1:\
-  Introduction to dataframes\
 Week 2:\
-  Introduction to plotting\
+  Introduction to dataframes\
 Week 3:\
-  Python Crash Course\
+  Introduction to plotting\
 Week 4:\
-  Mathematics Crash Course using Numpy\
+  Python Crash Course\
 Week 5:\
-  Linear Regression and Gradient Descent\
+  Mathematics Crash Course using Numpy\
 Week 6:\
-  Logistic Regression and Regularization\
+  Linear Regression and Gradient Descent\
 Week 7:\
-  Introduction to Tensorflow and Auto differentiation\
+  Logistic Regression and Regularization\
 Week 8:\
-  Neural Networks and Deep Learning with Tensorflow\
+  Introduction to Tensorflow and PyTorch\
 Week 9:\
-  Convolutional Neural Networks\
+  Neural Networks and Deep Learning\
 Week 10:\
-  Recurrent Neural Networks\
+  Convolutional Neural Networks\
 Week 11:\
+  Recurrent Neural Networks\
+Week 12:\
   Unsupervised Learning
   
