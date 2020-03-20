@@ -9,7 +9,8 @@ Packages used:\
   Keras\
   Pytorch
   
-Week 1:\ Introduction, install packages\
+Week 1:\ 
+Introduction, install packages\
 Week 2:\
   Introduction to dataframes\
 Week 3:\
