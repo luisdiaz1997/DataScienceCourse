@@ -7,7 +7,7 @@ Packages used:\
   Matplotlib\
   Tensorflow\
   Keras\
-  Pytorch
+  Pytorch\
   
 Week 1:\ 
 Introduction, install packages\
